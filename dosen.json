@@ -1,0 +1,52 @@
+[
+    {
+      "nama": "Rina Maharani",
+      "nomor_telepon": "081234567890",
+      "nip": "19830515 202203 2 001"
+    },
+    {
+      "nama": "Budi Prasetyo",
+      "nomor_telepon": "082156781234",
+      "nip": "19791123 201912 1 002"
+    },
+    {
+      "nama": "Ayu Wulandari",
+      "nomor_telepon": "085767894567",
+      "nip": "19900512 202101 2 003"
+    },
+    {
+      "nama": "Dimas Saputra",
+      "nomor_telepon": "081323456789",
+      "nip": "19881211 202002 1 004"
+    },
+    {
+      "nama": "Siti Rahmawati",
+      "nomor_telepon": "082298765432",
+      "nip": "19750504 200803 2 005"
+    },
+    {
+      "nama": "Andi Permana",
+      "nomor_telepon": "085234567891",
+      "nip": "19920830 202301 1 006"
+    },
+    {
+      "nama": "Mega Putri",
+      "nomor_telepon": "081967891234",
+      "nip": "19870615 201601 2 007"
+    },
+    {
+      "nama": "Fajar Hidayat",
+      "nomor_telepon": "083856782345",
+      "nip": "19830228 201003 1 008"
+    },
+    {
+      "nama": "Lestari Handayani",
+      "nomor_telepon": "081298765432",
+      "nip": "19911114 202204 2 009"
+    },
+    {
+      "nama": "Wahyu Ramadhan",
+      "nomor_telepon": "085123456789",
+      "nip": "19951205 202401 1 010"
+    }
+  ]
